@@ -1,6 +1,6 @@
 # Smart Recruiter Assistant 
 
-`Smart Recruiter Assistant` is an intelligent recruitment tool powered by Retrieval-Augmented Generation (RAG). It helps recruiters interactively search and analyze multiple CVs to find the best candidates quickly and efficiently.
+**Smart Recruiter Assistant** is an intelligent recruitment tool powered by Retrieval-Augmented Generation (RAG). It helps recruiters interactively search and analyze multiple CVs to find the best candidates quickly and efficiently.
 
 
 
